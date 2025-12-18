@@ -29,6 +29,8 @@ public class BrickBreak extends JPanel implements KeyListener, ActionListener {
 	private int totalBricks;
 
 	private Timer timer;
+
+
 	private int delay = 8;
 
 	private Brick[][] map;
